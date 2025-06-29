@@ -1,6 +1,7 @@
 s = "Hello, World!"
 
-#EXP 打印数据类型 type() 查看的是数据的类型。变量(如"Hello, World!")是字面量，本身无类型，存储它的数据(如s)有类型
+#EXP 打印数据类型 type()
+# 查看的是数据的类型。变量(如"Hello, World!")是字面量，本身无类型，存储它的数据(如s)有类型
 print(type(s))
 
 #EXP 数据类型转换 int() float() str()
